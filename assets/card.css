@@ -1,0 +1,28 @@
+.card-container {
+  width: 30%;
+  background-color: #fbf7e3;
+  border-radius: 20px;
+  overflow: hidden;
+  margin-inline: auto;
+  color: #612406;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card-container img {
+  max-width: 100%;
+}
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.cart {
+  display: flex;
+  margin: auto;
+  border-radius: 15px;
+  color: #612406;
+  background-color: palegoldenrod;
+  border: none;
+  margin-bottom: 10px;
+  padding-inline: 35px;
+  padding-block: 8px;
+}
