@@ -1,5 +1,5 @@
 .allContainer {
-  width: 30%;
+  width: 65%;
   background-color: #fbf7e3;
   border-radius: 20px;
   overflow: hidden;
@@ -7,6 +7,9 @@
   color: #612406;
   font-family: Arial, Helvetica, sans-serif;
 }
-.allContainer img {
-  max-width: 85%;
+
+.text {
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
 }
